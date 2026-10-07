@@ -1,0 +1,21 @@
+{
+  "type": "custom-component",
+  "name": "subs",
+  "children": [
+    {
+      "name": "h1",
+      "classList": [],
+      "children": [
+        {
+          "name": "text",
+          "textContent": "subs",
+          "evaluate": false
+        }
+      ]
+    }
+  ],
+  "variables": [],
+  "bindings": [],
+  "modules": [],
+  "styles": []
+}

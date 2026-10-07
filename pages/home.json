@@ -1,0 +1,38 @@
+{
+  "name": "home",
+  "type": "page",
+  "url": "/home",
+  "params": {},
+  "variables": [],
+  "children": [
+    {
+      "name": "subs",
+      "nodeName": "subs",
+      "elementId": "",
+      "attributes": [
+        {
+          "property": "data-id",
+          "value": "r3Gm-G"
+        }
+      ],
+      "classList": [],
+      "conditionalClasses": [],
+      "conditionalStyles": [],
+      "contentType": "text",
+      "displayExpression": "",
+      "events": {},
+      "iterate": {
+        "array": "",
+        "variable": "",
+        "trackByIndex": false
+      },
+      "styles": [],
+      "children": [],
+      "comments": "",
+      "type": "custom-component",
+      "ownerId": "6ac5e5c53d8b39acc122a19e",
+      "ownerType": "app",
+      "expressions": []
+    }
+  ]
+}
